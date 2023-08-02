@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "repo 1"
+echo "my repo 1"
 
